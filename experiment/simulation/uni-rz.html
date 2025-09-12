@@ -1,0 +1,109 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>Virtual Labs</title>
+        <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport" />
+ 
+        <link rel="stylesheet" href="css/bootstrap.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="css/AdminLTE.css" />
+        <link rel="stylesheet" href="css/_all-skins.min.css" />
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+        <link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.min.css'></link>
+    </head>
+
+    <body>
+        <div class="boxe" style="position: absolute;">
+            <div class="container">
+           
+                <div id="myNav" class="overlay">
+					<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+				  
+                <div class="overlay-content">
+                   
+                        <div id="text">
+                            The following instructions are for RZ-Unipolar Encoding-</br>
+                            1) Enter the data bits you wish to encode.</br>
+                            2) Set the voltage of Data signals.</br>
+                            3) Click on Submit button.<br>
+                            4) Your Output digital signal will be plotted live for you.</br>
+                            5) Try out the other encoding schemes just by clicking on dropdown visible at the top stating Choose a Scheme.</br></br>
+        
+                            Rules for the encoding:</br>
+                            RZ-Unipolar uses two levels of amplitude i.e. positive, zero.<br> 1 : positive-to-zero<br> 0 : zero.
+                        </div>
+                 
+					</div>
+                </div>
+
+            </div>
+      
+
+            <div class="wrapper" style="background-color: #e3f6f5;">
+                <div>
+                    <section class="content-header">
+                        <div class="row" style=" text-align: center; ">
+
+                        <script>
+                         function openNav() {
+                          document.getElementById("myNav").style.width = "100%";}
+
+                         /* Close when someone clicks on the "x" symbol inside the overlay */
+                         function closeNav() {
+                          document.getElementById("myNav").style.width = "0%"; }  
+                        </script>
+                            
+                              <label for="exps">Choose a Scheme:</label>
+                              <select name="exps" id="exps" onChange="switchExp()">
+                                  <option type="button" value="1" selected>RZ Unipolar</option>
+                                  <option type="button" value="2" >NRZ-L</option>
+                                  <option type="button" value="3" >NRZ-I</option>
+                                  <option type="button" value="4" >Manchester</option>
+                                  <option type="button" value="5" >Differential Manchester</option>
+                                  <option type="button" value="6" >AMI</option>
+                                  <option type="button" value="7" >Pseudoternary</option>
+                              </select>
+                            <button class="ins1" onclick=window.location.reload()>RESET</button>
+                            <button class="ins" onclick="openNav()">INSTRUCTIONS</button>
+                        </div>
+                        <br/><br/>
+                    <h1 align="center" style="color:#272343;font-size:40px">
+                        RZ-Unipolar - Simulation
+                    </h1><br>
+                </section>
+                <section class="content" style=" background-color: #e3f6f5" id="alerts">
+                    <div class="row">
+                        <div class="input-field col col-xs-12 col-md-4 s5 text-center">
+                            <label for="data_bit">Enter Data Bit</label>
+                            <input id="data_bit" type="text" class="validate" value="" />
+                        </div>
+                        <div class="input-field col col-xs-12 col-md-4 s5 text-center">
+                            <label for="voltage">Enter Voltage</label>
+                            <input id="voltage" type="text" class="validate" value="" />
+                        </div>
+                        <div class="input-field col col-xs-12 col-md-4 s5 text-center">
+                           <button class="submit" onclick="plot()">Submit</button>
+                        </div>
+                    </div><br>
+                    <div id="rz-uni"></div>
+                </section>
+            </div>
+            
+        </div></div>
+        
+        <div class="footer">
+             &copy; 2024 Virtual Labs, IIT Roorkee
+        </div>
+    </body>
+    <script type="text/javascript" src="js/main.js"></script>
+    <script src="js/jquery-2.2.3.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.slimscroll.min.js"></script>
+    <script src="js/fastclick.js"></script>
+    <script src="js/app.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+   
+    <script type="text/javascript" src="js/rz-uni.js"></script>
+</html>
