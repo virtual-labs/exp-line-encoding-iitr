@@ -1,39 +1,124 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+  "content": {
+    "title": "Implementation of Line Encoding Schemes",
+    "section": "Post-Test",
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which of the following characteristics are true for Differential manchester.\nC1: Three levels.\nC2: No DC component.\nC3: Good synchronization.",
+        "options": [
+          "a. C1 and C2",
+          "b. C2 and C3",
+          "c. C1 and C3",
+          "d. None of the above"
+        ],
+        "answer": "b"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "id": "q2",
+        "question": "Which of the following is the correct input string for the following waveform generated using Unipolar-RZ.",
+        "options": [
+          "a. 11101",
+          "b. 10101",
+          "c. 11111",
+          "d. 00110"
+        ],
+        "answer": "b",
+        "image":"images/1.png"
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "id": "q3",
+        "question": "In which line encoding scheme high volt is assigned for logical 0 bit and low volt is assigned for logical 1.",
+        "options": [
+          "a. NRZ-I",
+          "b. NRZ-L",
+          "c. AMI",
+          "d. Manchester"
+        ],
+        "answer": "b"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "id": "q4",
+        "question": "Which of the following is the correct input string for the following waveform (in NRZ-L).",
+        "options": [
+          "a. 10110001",
+          "b. 10010110",
+          "c. 01010110",
+          "d. 01001110"
+        ],
+        "answer": "d",
+        "image":"images/2.png"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+      {
+        "id": "q5",
+        "question": "The minimum bandwidth of Manchester and differential Manchester is ______ that of NRZ.",
+        "options": [
+          "a. the same as",
+          "b. twice",
+          "c. thrice",
+          "d. none of the above"
+        ],
+        "answer": "b"
+      },
+      {
+        "id": "q6",
+        "question": "Which of the following is the correct input string for the following waveform generated using NRZ-I. Assume low voltage at the beginning.",
+        "options": [
+          "a. 11101",
+          "b. 10101",
+          "c. 11111",
+          "d. 00110"
+        ],
+        "answer": "b",
+        "image":"images/3.png"
+      },
+      {
+        "id": "q7",
+        "question": "Which of the following techniques is best at self-synchronization.",
+        "options": [
+          "a. Manchester",
+          "b. NRZ-L",
+          "c. Unipolar RZ",
+          "d. All of the above"
+        ],
+        "answer": "a"
+      },
+      {
+        "id": "q8",
+        "question": "Line coding converts a sequence of ___________.",
+        "options": [
+          "a. frames to digital signal",
+          "b. bits to a digital signal",
+          "c. bytes to digital signal",
+          "d. packets of data to digital signals"
+        ],
+        "answer": "b"
+      },
+      {
+        "id": "q9",
+        "question": "Which of the following techniques have no DC component?",
+        "options": [
+          "a. Polar NRZ-I",
+          "b. Pseudoternary",
+          "c. Manchester",
+          "d. Both b and c"
+        ],
+        "answer": "d"
+      },
+      {
+        "id": "q10",
+        "question": "Which of the following is the correct input string for the following waveform generated using Pseudoternary. Assume the most recent preceding 1 bit has negative voltage.",
+        "options": [
+          "a. 10101010101",
+          "b. 11001110010",
+          "c. 01001100011",
+          "d. None of the above"
+        ],
+        "answer": "d",
+        "image":"images/5.png"
+      }
+    ]
+  }
 }
+
+
