@@ -1,116 +1,111 @@
-{
-  "content": {
-    "title": "Implementation of Line Encoding Schemes",
-    "section": "Post-Test",
-    "questions": [
-      {
-        "id": "q1",
+[
+  {
         "question": "Unipolar RZ is a type of ______ encoding.",
-        "options": [
-          "a. Line",
-          "b. Block",
-          "c. Scrambling",
-          "d. None of the above"
-        ],
-        "answer": "a"
+        "answers": {
+          "a": "Line",
+          "b": "Block",
+          "c": "Scrambling",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a"
       },
       {
-        "id": "q2",
+      
         "question": "DC component is present in the encoded signal and there is loss of synchronization for long sequences of 0’s and 1’s in unipolar RZ.",
-        "options": [
-          "a. True",
-          "b. False"
-        ],
-        "answer": "a"
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+        "correctAnswer": "a"
       },
       {
-        "id": "q3",
+      
         "question": "NRZ-L is a type of _____ line encoding.",
-        "options": [
-          "a. Bipolar",
-          "b. Multitransition",
-          "c. Polar",
-          "d. None of the above"
-        ],
-        "answer": "c"
+        "answers": {
+          "a": "Bipolar",
+          "b": "Multitransition",
+          "c": "Polar",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c"
       },
       {
-        "id": "q4",
+      
         "question": "Which of the following is not a Polar line encoding scheme?",
-        "options": [
-          "a. NRZ-I",
-          "b. NRZ-L",
-          "c. AMI",
-          "d. All of the above"
-        ],
-        "answer": "c"
+        "answers": {
+          "a": "NRZ-I",
+          "b": "NRZ-L",
+          "c": "AMI",
+          "d": "All of the above"
+        },
+        "correctAnswer": "c"
       },
       {
-        "id": "q5",
+        
         "question": "Manchester encoding is a combination of which two line encoding schemes.",
-        "options": [
-          "a. NRZ-L and RZ",
-          "b. NRZ-I and RZ",
-          "c. NRZ-L and AMI",
-          "d. None of the above"
-        ],
-        "answer": "b"
+        "answers": {
+          "a": "NRZ-L and RZ",
+          "b": "NRZ-I and RZ",
+          "c": "NRZ-L and AMI",
+          "d": "None of the above"
+        },
+        "correctAnswer": "b"
       },
       {
-        "id": "q6",
+      
         "question": "The ________ represents the number of bits sent per second, whereas the ______ defines the number of signal elements per second in the signal.",
-        "options": [
-          "a. bit rate, baud rate",
-          "b. baud rate , bit rate",
-          "c. Both are same",
-          "d. None of the above"
-        ],
-        "answer": "a"
+        "answers": {
+          "a": "bit rate, baud rate",
+          "b": "baud rate , bit rate",
+          "c": "Both are same",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a"
       },
       {
-        "id": "q7",
+        
         "question": "In which line encoding scheme 0 bit is represented by Zero level and binary 1 is represented by alternating positive and negative voltages.",
-        "options": [
-          "a. NRZ-I",
-          "b. AMI",
-          "c. Pseudoternary",
-          "d. All of the above"
-        ],
-        "answer": "b"
+        "answers": {
+          "a": "NRZ-I",
+          "b": "AMI",
+          "c": "Pseudoternary",
+          "d": "All of the above"
+        },
+        "correctAnswer": "b"
       },
       {
-        "id": "q8",
+        
         "question": "In Pseudoternary line encoding\nStatement 1: 0 bit is represented by Zero level.\nStatement 2: Binary 1 is represented by alternating positive and negative voltages.\nWhich of the above are true.",
-        "options": [
-          "a. Statement 1 is true and Statement 2 is false",
-          "b. Statement 1 is false and Statement 2 is true",
-          "c. Both are true",
-          "d. Both are false"
-        ],
-        "answer": "d"
+        "answers": {
+          "a": "Statement 1 is true and Statement 2 is false",
+          "b": "Statement 1 is false and Statement 2 is true",
+          "c": "Both are true",
+          "d": "Both are false"
+        },
+        "correctAnswer": "d"
       },
       {
-        "id": "q9",
+      
         "question": "The polarities in NRZ format use?",
-        "options": [
-          "a. Complete pulse duration",
-          "b. Half duration",
-          "c. Both positive as well as negative value",
-          "d. Each pulse is used for twice the duration"
-        ],
-        "answer": "a"
+        "answers": {
+          "a": "Complete pulse duration",
+          "b": "Half duration",
+          "c": "Both positive as well as negative value",
+          "d": "Each pulse is used for twice the duration"
+      },
+        "correctAnswer": "a"
       },
       {
-        "id": "q10",
+        
         "question": "How many levels does manchester line encoding involve?",
-        "options": [
-          "a. Two levels with inversion in the middle of each bit",
-          "b. Three levels with inversion in the middle of each bit",
-          "c. Two levels without inversion in the middle of each bit",
-          "d. Three levels without inversion in the middle of each bit"
-        ],
-        "answer": "a"
+        "options": {
+          "a": "Two levels with inversion in the middle of each bit",
+          "b": "Three levels with inversion in the middle of each bit",
+          "c": "Two levels without inversion in the middle of each bit",
+          "d": "Three levels without inversion in the middle of each bit"
+      },
+        "correctAnswer": "a"
       }
-    ]
-  }
-}
+]
+  
+
