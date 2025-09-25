@@ -1,0 +1,120 @@
+[
+  {
+    
+        "question": "Which of the following characteristics are true for Differential manchester.\nC1: Three levels.\nC2: No DC component.\nC3: Good synchronization.",
+        "answers": {
+          "a": "C1 and C2",
+          "b": "C2 and C3",
+          "c": "C1 and C3",
+          "d": "None of the above"
+        },
+        "correctAnswer": "b"
+      },
+      {
+      
+        "question": "Which of the following is the correct input string for the following waveform generated using Unipolar-RZ.",
+        "answers": {
+          "a": "11101",
+          "b": "10101",
+          "c": "11111",
+          "d": "00110"
+        },
+        "correctAnswer": "b",
+        "image":"images/1.png"
+      },
+      {
+        "id": "q3",
+        "question": "In which line encoding scheme high volt is assigned for logical 0 bit and low volt is assigned for logical 1.",
+        "answers": {
+          "a": "NRZ-I",
+          "b": "NRZ-L",
+          "c": "AMI",
+          "d": "Manchester"
+        },
+        "correctAnswer": "b"
+      },
+      {
+       
+        "question": "Which of the following is the correct input string for the following waveform (in NRZ-L).",
+        "answers": {
+          "a": "10110001",
+          "b": "10010110",
+          "c": "01010110",
+          "d": "01001110"
+        },
+        "correctAnswer": "d",
+        "image":"images/2.png"
+      },
+      {
+       
+        "question": "The minimum bandwidth of Manchester and differential Manchester is ______ that of NRZ.",
+        "answers": {
+          "a": "the same as",
+          "b": "twice",
+          "c": "thrice",
+          "d": "none of the above"
+        },
+        "correctAnswer": "b"
+      },
+      {
+     
+        "question": "Which of the following is the correct input string for the following waveform generated using NRZ-I. Assume low voltage at the beginning.",
+        "answers": {
+          "a": "11101",
+          "b": "10101",
+          "c": "11111",
+          "d": "00110"
+        },
+        "correctAnswer": "b",
+        "image":"images/3.png"
+      },
+      {
+        
+        "question": "Which of the following techniques is best at self-synchronization.",
+        "answers": {
+          "a": "Manchester",
+          "b": "NRZ-L",
+          "c": "Unipolar RZ",
+          "d": "All of the above"
+        },
+        "correctAnswer": "a"
+      },
+      {
+    
+        "question": "Line coding converts a sequence of ___________.",
+        "answers": {
+          "a": "frames to digital signal",
+          "b": "bits to a digital signal",
+          "c": "bytes to digital signal",
+          "d": "packets of data to digital signals"
+        },
+        "correctAnswer": "b"
+      },
+      {
+       
+        "question": "Which of the following techniques have no DC component?",
+        "answers": {
+          "a": "Polar NRZ-I",
+          "b": "Pseudoternary",
+          "c": "Manchester",
+          "d": "Both b and c"
+        },
+        "correctAnswer": "d"
+      },
+      {
+      
+        "question": "Which of the following is the correct input string for the following waveform generated using Pseudoternary. Assume the most recent preceding 1 bit has negative voltage.",
+        "answers": {
+          "a": "10101010101",
+          "b": "11001110010",
+          "c": "01001100011",
+          "d": "None of the above"
+        },
+        "correctAnswer": "d",
+        "image":"images/5.png"
+      }
+    ]
+  
+
+
+
