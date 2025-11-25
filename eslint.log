@@ -1,0 +1,739 @@
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/ami.js
+    1:1   warning  '$' is not defined            no-undef
+    4:2   warning  '$' is not defined            no-undef
+   10:17  warning  '$' is not defined            no-undef
+   11:16  warning  '$' is not defined            no-undef
+   15:3   warning  'Swal' is not defined         no-undef
+   30:3   warning  'Swal' is not defined         no-undef
+   45:3   warning  'Swal' is not defined         no-undef
+   62:3   warning  'arr_databit' is not defined  no-undef
+   63:15  warning  'arr_databit' is not defined  no-undef
+   66:13  warning  'arr_databit' is not defined  no-undef
+   68:7   warning  'arr_databit' is not defined  no-undef
+   68:31  warning  'arr_databit' is not defined  no-undef
+   76:14  warning  'arr_databit' is not defined  no-undef
+   82:4   warning  'Swal' is not defined         no-undef
+   84:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   85:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   86:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   88:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   89:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   99:4   warning  'Swal' is not defined         no-undef
+  101:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  102:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  103:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  105:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  106:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  116:4   warning  'Swal' is not defined         no-undef
+  118:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  119:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  120:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  122:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  123:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  143:7   warning  'arr_databit' is not defined  no-undef
+  154:12  warning  'i' is already defined        no-redeclare
+  154:18  warning  'arr_databit' is not defined  no-undef
+  156:8   warning  'arr_databit' is not defined  no-undef
+  165:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  165:10  warning  'arr_databit' is not defined  no-undef
+  166:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  167:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  168:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  169:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  170:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  171:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  173:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  174:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  175:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  176:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  177:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  178:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  180:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  181:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  182:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  183:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  184:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  185:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  186:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  187:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  188:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  189:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  190:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  191:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  193:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  204:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  205:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  206:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  207:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  208:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  209:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  225:4   warning  'Plotly' is not defined       no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/app.js
+   28:1   warning  '$' is not defined                no-undef
+   35:1   warning  '$' is not defined                no-undef
+  140:1   warning  '$' is not defined                no-undef
+  144:3   warning  '$' is not defined                no-undef
+  148:5   warning  '$' is not defined                no-undef
+  149:7   warning  '$' is not defined                no-undef
+  150:7   warning  'AdminLTEOptions' is not defined  no-undef
+  154:11  warning  '$' is not defined                no-undef
+  160:3   warning  '$' is not defined                no-undef
+  163:3   warning  '$' is not defined                no-undef
+  167:5   warning  '$' is not defined                no-undef
+  171:40  warning  '$' is not defined                no-undef
+  172:5   warning  '$' is not defined                no-undef
+  181:5   warning  '$' is not defined                no-undef
+  186:5   warning  '$' is not defined                no-undef
+  193:5   warning  '$' is not defined                no-undef
+  198:5   warning  'FastClick' is not defined        no-undef
+  203:5   warning  '$' is not defined                no-undef
+  204:17  warning  '$' is not defined                no-undef
+  213:3   warning  '$' is not defined                no-undef
+  214:17  warning  '$' is not defined                no-undef
+  215:5   warning  '$' is not defined                no-undef
+  217:7   warning  '$' is not defined                no-undef
+  240:3   warning  '$' is not defined                no-undef
+  245:7   warning  '$' is not defined                no-undef
+  252:17  warning  '$' is not defined                no-undef
+  252:51  warning  '$' is not defined                no-undef
+  253:27  warning  '$' is not defined                no-undef
+  254:28  warning  '$' is not defined                no-undef
+  257:11  warning  '$' is not defined                no-undef
+  258:9   warning  '$' is not defined                no-undef
+  258:78  warning  '$' is not defined                no-undef
+  262:11  warning  '$' is not defined                no-undef
+  265:11  warning  '$' is not defined                no-undef
+  270:30  warning  '$' is not defined                no-undef
+  270:32  warning  '$' is not defined                no-undef
+  273:13  warning  '$' is not defined                no-undef
+  280:12  warning  '$' is not defined                no-undef
+  281:20  warning  '$' is not defined                no-undef
+  282:11  warning  '$' is not defined                no-undef
+  285:25  warning  '$' is not defined                no-undef
+  289:11  warning  '$' is not defined                no-undef
+  290:20  warning  '$' is not defined                no-undef
+  292:11  warning  '$' is not defined                no-undef
+  294:11  warning  '$' is not defined                no-undef
+  295:22  warning  '$' is not defined                no-undef
+  295:43  warning  '$' is not defined                no-undef
+  311:3   warning  '$' is not defined                no-undef
+  314:25  warning  '$' is not defined                no-undef
+  317:7   warning  '$' is not defined                no-undef
+  321:13  warning  '$' is not defined                no-undef
+  322:15  warning  '$' is not defined                no-undef
+  323:13  warning  '$' is not defined                no-undef
+  325:13  warning  '$' is not defined                no-undef
+  330:15  warning  '$' is not defined                no-undef
+  331:13  warning  '$' is not defined                no-undef
+  333:13  warning  '$' is not defined                no-undef
+  338:7   warning  '$' is not defined                no-undef
+  340:13  warning  '$' is not defined                no-undef
+  340:58  warning  '$' is not defined                no-undef
+  341:11  warning  '$' is not defined                no-undef
+  346:11  warning  '$' is not defined                no-undef
+  347:13  warning  '$' is not defined                no-undef
+  348:12  warning  '$' is not defined                no-undef
+  354:25  warning  '$' is not defined                no-undef
+  356:7   warning  '$' is not defined                no-undef
+  357:13  warning  '$' is not defined                no-undef
+  358:14  warning  '$' is not defined                no-undef
+  359:14  warning  '$' is not defined                no-undef
+  363:13  warning  '$' is not defined                no-undef
+  364:14  warning  '$' is not defined                no-undef
+  365:14  warning  '$' is not defined                no-undef
+  371:7   warning  '$' is not defined                no-undef
+  374:11  warning  '$' is not defined                no-undef
+  375:9   warning  '$' is not defined                no-undef
+  388:3   warning  '$' is not defined                no-undef
+  390:26  warning  '$' is not defined                no-undef
+  391:5   warning  '$' is not defined                no-undef
+  394:21  warning  '$' is not defined                no-undef
+  398:87  warning  '$' is not defined                no-undef
+  442:3   warning  '$' is not defined                no-undef
+  448:15  warning  '$' is not defined                no-undef
+  450:21  warning  '$' is not defined                no-undef
+  452:17  warning  '$' is not defined                no-undef
+  459:15  warning  '$' is not defined                no-undef
+  468:16  warning  '$' is not defined                no-undef
+  472:11  warning  '$' is not defined                no-undef
+  476:13  warning  '$' is not defined                no-undef
+  489:9   warning  '$' is not defined                no-undef
+  497:9   warning  '$' is not defined                no-undef
+  502:11  warning  '$' is not defined                no-undef
+  504:24  warning  '$' is not defined                no-undef
+  508:9   warning  '$' is not defined                no-undef
+  528:7   warning  '$' is not defined                no-undef
+  541:3   warning  '$' is not defined                no-undef
+  542:16  warning  '$' is not defined                no-undef
+  543:12  warning  '$' is not defined                no-undef
+  544:21  warning  '$' is not defined                no-undef
+  551:7   warning  '$' is not defined                no-undef
+  553:24  warning  '$' is not defined                no-undef
+  557:7   warning  '$' is not defined                no-undef
+  559:22  warning  '$' is not defined                no-undef
+  678:4   warning  'jQuery' is not defined           no-undef
+  709:4   warning  'jQuery' is not defined           no-undef
+  763:3   warning  'jQuery' is not defined           no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/app.min.js
+  13:31    warning  '$' is not defined                no-undef
+  13:104   warning  '$' is not defined                no-undef
+  13:190   warning  '$' is not defined                no-undef
+  13:222   warning  '$' is not defined                no-undef
+  13:256   warning  '$' is not defined                no-undef
+  13:277   warning  '$' is not defined                no-undef
+  13:303   warning  '$' is not defined                no-undef
+  13:331   warning  '$' is not defined                no-undef
+  13:385   warning  '$' is not defined                no-undef
+  13:435   warning  '$' is not defined                no-undef
+  13:500   warning  '$' is not defined                no-undef
+  13:566   warning  '$' is not defined                no-undef
+  13:568   warning  '$' is not defined                no-undef
+  13:656   warning  '$' is not defined                no-undef
+  13:751   warning  '$' is not defined                no-undef
+  13:800   warning  '$' is not defined                no-undef
+  13:918   warning  '$' is not defined                no-undef
+  13:976   warning  '$' is not defined                no-undef
+  13:994   warning  '$' is not defined                no-undef
+  13:1048  warning  '$' is not defined                no-undef
+  13:1081  warning  '$' is not defined                no-undef
+  13:1100  warning  '$' is not defined                no-undef
+  13:1197  warning  '$' is not defined                no-undef
+  13:1214  warning  '$' is not defined                no-undef
+  13:1271  warning  '$' is not defined                no-undef
+  13:1319  warning  '$' is not defined                no-undef
+  13:1350  warning  '$' is not defined                no-undef
+  13:1406  warning  '$' is not defined                no-undef
+  13:1431  warning  '$' is not defined                no-undef
+  13:1470  warning  '$' is not defined                no-undef
+  13:1541  warning  '$' is not defined                no-undef
+  13:1610  warning  '$' is not defined                no-undef
+  13:1645  warning  '$' is not defined                no-undef
+  13:1745  warning  '$' is not defined                no-undef
+  13:1811  warning  '$' is not defined                no-undef
+  13:1850  warning  '$' is not defined                no-undef
+  13:1877  warning  '$' is not defined                no-undef
+  13:1913  warning  '$' is not defined                no-undef
+  13:1954  warning  '$' is not defined                no-undef
+  13:1995  warning  '$' is not defined                no-undef
+  13:2024  warning  '$' is not defined                no-undef
+  13:2121  warning  '$' is not defined                no-undef
+  13:2157  warning  '$' is not defined                no-undef
+  13:2193  warning  '$' is not defined                no-undef
+  13:2229  warning  '$' is not defined                no-undef
+  13:2269  warning  '$' is not defined                no-undef
+  13:2313  warning  '$' is not defined                no-undef
+  13:2349  warning  '$' is not defined                no-undef
+  13:2398  warning  '$' is not defined                no-undef
+  13:2453  warning  '$' is not defined                no-undef
+  13:2554  warning  '$' is not defined                no-undef
+  13:2603  warning  '$' is not defined                no-undef
+  13:2685  warning  '$' is not defined                no-undef
+  13:2726  warning  '$' is not defined                no-undef
+  13:2760  warning  '$' is not defined                no-undef
+  13:2834  warning  '$' is not defined                no-undef
+  13:2899  warning  '$' is not defined                no-undef
+  13:3365  warning  '$' is not defined                no-undef
+  13:3425  warning  '$' is not defined                no-undef
+  13:3468  warning  '$' is not defined                no-undef
+  13:3484  warning  '$' is not defined                no-undef
+  13:3587  warning  '$' is not defined                no-undef
+  13:3675  warning  '$' is not defined                no-undef
+  13:3710  warning  '$' is not defined                no-undef
+  13:3756  warning  '$' is not defined                no-undef
+  13:3889  warning  '$' is not defined                no-undef
+  13:3993  warning  '$' is not defined                no-undef
+  13:4071  warning  '$' is not defined                no-undef
+  13:4148  warning  '$' is not defined                no-undef
+  13:4197  warning  '$' is not defined                no-undef
+  13:4443  warning  '$' is not defined                no-undef
+  13:4509  warning  '$' is not defined                no-undef
+  13:4541  warning  '$' is not defined                no-undef
+  13:4602  warning  '$' is not defined                no-undef
+  13:4668  warning  '$' is not defined                no-undef
+  13:4750  warning  '$' is not defined                no-undef
+  13:4829  warning  '$' is not defined                no-undef
+  13:4840  warning  '$' is not defined                no-undef
+  13:4915  warning  '$' is not defined                no-undef
+  13:5548  warning  '$' is not defined                no-undef
+  13:5562  warning  '$' is not defined                no-undef
+  13:6624  warning  '$' is not defined                no-undef
+  13:6650  warning  '$' is not defined                no-undef
+  13:6728  warning  '$' is not defined                no-undef
+  13:6740  warning  '$' is not defined                no-undef
+  13:6759  warning  'AdminLTEOptions' is not defined  no-undef
+  13:6782  warning  '$' is not defined                no-undef
+  13:6809  warning  '$' is not defined                no-undef
+  13:6838  warning  '$' is not defined                no-undef
+  13:6890  warning  '$' is not defined                no-undef
+  13:6971  warning  '$' is not defined                no-undef
+  13:6988  warning  '$' is not defined                no-undef
+  13:7136  warning  '$' is not defined                no-undef
+  13:7210  warning  '$' is not defined                no-undef
+  13:7279  warning  '$' is not defined                no-undef
+  13:7361  warning  'FastClick' is not defined        no-undef
+  13:7414  warning  '$' is not defined                no-undef
+  13:7489  warning  '$' is not defined                no-undef
+  13:7574  warning  '$' is not defined                no-undef
+  13:7638  warning  '$' is not defined                no-undef
+  13:7646  warning  '$' is not defined                no-undef
+  13:7734  warning  '$' is not defined                no-undef
+  13:8427  warning  'jQuery' is not defined           no-undef
+  13:8750  warning  'jQuery' is not defined           no-undef
+  13:9366  warning  'jQuery' is not defined           no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/bootstrap.js
+    17:3  warning  'jQuery' is not defined                                     no-undef
+    77:3  warning  'jQuery' is not defined                                     no-undef
+   172:3  warning  'jQuery' is not defined                                     no-undef
+   293:3  warning  'jQuery' is not defined                                     no-undef
+   531:3  warning  'jQuery' is not defined                                     no-undef
+   661:7  warning  Unexpected newline between object and [ of property access  no-unexpected-multiline
+   743:3  warning  'jQuery' is not defined                                     no-undef
+   909:3  warning  'jQuery' is not defined                                     no-undef
+  1247:3  warning  'jQuery' is not defined                                     no-undef
+  1762:3  warning  'jQuery' is not defined                                     no-undef
+  1871:3  warning  'jQuery' is not defined                                     no-undef
+  2044:3  warning  'jQuery' is not defined                                     no-undef
+  2200:3  warning  'jQuery' is not defined                                     no-undef
+  2363:3  warning  'jQuery' is not defined                                     no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/bootstrap.min.js
+  6:319    warning  'jQuery' is not defined                 no-undef
+  6:1075   warning  'jQuery' is not defined                 no-undef
+  6:2009   warning  'jQuery' is not defined                 no-undef
+  6:3873   warning  'jQuery' is not defined                 no-undef
+  6:7916   warning  'jQuery' is not defined                 no-undef
+  6:11284  warning  'jQuery' is not defined                 no-undef
+  6:13647  warning  'jQuery' is not defined                 no-undef
+  6:19628  warning  'jQuery' is not defined                 no-undef
+  6:27173  warning  'a' is assigned a value but never used  no-unused-vars
+  6:28496  warning  'jQuery' is not defined                 no-undef
+  6:30085  warning  'jQuery' is not defined                 no-undef
+  7:499    warning  'jQuery' is not defined                 no-undef
+  7:2319   warning  'jQuery' is not defined                 no-undef
+  7:4732   warning  'jQuery' is not defined                 no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/differential_manch.js
+    1:1   warning  '$' is not defined            no-undef
+    3:2   warning  '$' is not defined            no-undef
+    9:17  warning  '$' is not defined            no-undef
+   10:16  warning  '$' is not defined            no-undef
+   16:3   warning  'Swal' is not defined         no-undef
+   31:3   warning  'Swal' is not defined         no-undef
+   46:3   warning  'Swal' is not defined         no-undef
+   63:3   warning  'arr_databit' is not defined  no-undef
+   64:15  warning  'arr_databit' is not defined  no-undef
+   67:13  warning  'arr_databit' is not defined  no-undef
+   69:7   warning  'arr_databit' is not defined  no-undef
+   69:31  warning  'arr_databit' is not defined  no-undef
+   77:14  warning  'arr_databit' is not defined  no-undef
+   83:4   warning  'Swal' is not defined         no-undef
+   85:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   86:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   87:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   89:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   90:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  100:4   warning  'Swal' is not defined         no-undef
+  102:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  103:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  104:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  106:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  107:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  117:4   warning  'Swal' is not defined         no-undef
+  119:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  120:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  121:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  123:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  124:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  143:7   warning  'arr_databit' is not defined  no-undef
+  157:12  warning  'i' is already defined        no-redeclare
+  157:18  warning  'arr_databit' is not defined  no-undef
+  159:8   warning  'arr_databit' is not defined  no-undef
+  161:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  162:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  163:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  164:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  165:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  166:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  167:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  168:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  169:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  170:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  171:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  172:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  173:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  174:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  175:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  176:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  177:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  178:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  184:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  185:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  186:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  187:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  188:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  189:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  193:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  194:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  195:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  196:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  197:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  198:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  211:12  warning  'i' is already defined        no-redeclare
+  222:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  223:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  224:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  225:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  226:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  227:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  242:4   warning  'Plotly' is not defined       no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/fastclick.js
+    1:1   warning  Unnecessary semicolon                                     no-extra-semi
+   13:19  warning  'Event' is already defined as a built-in global variable  no-redeclare
+   13:26  warning  'Node' is already defined as a built-in global variable   no-redeclare
+  746:69  warning  Unexpected comma in middle of array                       no-sparse-arrays
+  797:71  warning  Unexpected comma in middle of array                       no-sparse-arrays
+  835:46  warning  'module' is not defined                                   no-undef
+  836:3   warning  'module' is not defined                                   no-undef
+  837:3   warning  'module' is not defined                                   no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/jquery-2.2.3.min.js
+  2:58     warning  'module' is not defined                                                    no-undef
+  2:73     warning  'module' is not defined                                                    no-undef
+  2:6147   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6403   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:6834   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:7093   warning  Empty block statement                                                      no-empty
+  2:7662   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:9532   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11134  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11710  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:11748  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:12166  warning  Empty block statement                                                      no-empty
+  2:12729  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:13041  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:14869  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15140  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15340  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:15716  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  2:16421  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18805  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18896  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:18956  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20258  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20872  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:20983  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  2:23243  warning  Unnecessary escape character: \[                                           no-useless-escape
+  2:23245  warning  Unnecessary escape character: \.                                           no-useless-escape
+  3:10     warning  Empty block statement                                                      no-empty
+  3:4145   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:4284   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:4900   warning  Empty block statement                                                      no-empty
+  3:13968  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:15550  warning  Empty block statement                                                      no-empty
+  3:17096  warning  Move function declaration to function body root                            no-inner-declarations
+  3:24430  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:26855  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  3:31319  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:1015   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:1095   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:1438   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:1518   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:1939   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:2216   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:7005   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:9508   warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:10285  warning  'j.href' is assigned to itself                                             no-self-assign
+  4:11408  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  4:14991  warning  Empty block statement                                                      no-empty
+  4:21305  warning  'define' is not defined                                                    no-undef
+  4:21317  warning  'define' is not defined                                                    no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/jquery.slimscroll.js
+  153:12  warning  Mixed spaces and tabs          no-mixed-spaces-and-tabs
+  226:13  warning  't' is not defined             no-undef
+  227:13  warning  'pageY' is not defined         no-undef
+  230:15  warning  'currTop' is not defined       no-undef
+  230:25  warning  't' is not defined             no-undef
+  230:39  warning  'pageY' is not defined         no-undef
+  231:30  warning  'currTop' is not defined       no-undef
+  235:54  warning  'e' is defined but never used  no-unused-vars
+  272:42  warning  'b' is defined but never used  no-unused-vars
+  284:2   warning  Mixed spaces and tabs          no-mixed-spaces-and-tabs
+  285:2   warning  Mixed spaces and tabs          no-mixed-spaces-and-tabs
+  323:15  warning  'e' is already defined         no-redeclare
+  474:4   warning  'jQuery' is not defined        no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/jquery.slimscroll.min.js
+  13:37   warning  'm' is already defined         no-redeclare
+  13:282  warning  'c' is already defined         no-redeclare
+  14:47   warning  'h' is already defined         no-redeclare
+  14:247  warning  't' is not defined             no-undef
+  14:274  warning  'pageY' is not defined         no-undef
+  14:330  warning  'currTop' is not defined       no-undef
+  14:338  warning  't' is not defined             no-undef
+  14:348  warning  'pageY' is not defined         no-undef
+  14:366  warning  'currTop' is not defined       no-undef
+  14:439  warning  'a' is defined but never used  no-unused-vars
+  15:233  warning  'b' is defined but never used  no-unused-vars
+  16:374  warning  'jQuery' is not defined        no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/main.js
+  1:10  warning  'switchExp' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/manchester.js
+    1:1   warning  '$' is not defined            no-undef
+    4:2   warning  '$' is not defined            no-undef
+   11:17  warning  '$' is not defined            no-undef
+   12:16  warning  '$' is not defined            no-undef
+   17:3   warning  'Swal' is not defined         no-undef
+   32:3   warning  'Swal' is not defined         no-undef
+   47:3   warning  'Swal' is not defined         no-undef
+   64:3   warning  'arr_databit' is not defined  no-undef
+   70:13  warning  'arr_databit' is not defined  no-undef
+   72:7   warning  'arr_databit' is not defined  no-undef
+   72:31  warning  'arr_databit' is not defined  no-undef
+   77:14  warning  'arr_databit' is not defined  no-undef
+   83:4   warning  'Swal' is not defined         no-undef
+   85:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   86:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   87:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   89:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   90:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  100:4   warning  'Swal' is not defined         no-undef
+  102:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  103:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  104:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  106:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  107:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  117:4   warning  'Swal' is not defined         no-undef
+  119:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  120:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  121:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  123:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  124:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  143:7   warning  'arr_databit' is not defined  no-undef
+  157:12  warning  'i' is already defined        no-redeclare
+  157:18  warning  'arr_databit' is not defined  no-undef
+  159:8   warning  'arr_databit' is not defined  no-undef
+  188:12  warning  'i' is already defined        no-redeclare
+  201:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  202:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  203:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  204:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  205:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  206:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  221:4   warning  'Plotly' is not defined       no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/nrz-i.js
+    1:1   warning  '$' is not defined            no-undef
+    4:2   warning  '$' is not defined            no-undef
+   12:17  warning  '$' is not defined            no-undef
+   13:16  warning  '$' is not defined            no-undef
+   19:3   warning  'Swal' is not defined         no-undef
+   34:3   warning  'Swal' is not defined         no-undef
+   49:3   warning  'Swal' is not defined         no-undef
+   67:3   warning  'arr_databit' is not defined  no-undef
+   70:13  warning  'arr_databit' is not defined  no-undef
+   72:7   warning  'arr_databit' is not defined  no-undef
+   72:31  warning  'arr_databit' is not defined  no-undef
+   80:14  warning  'arr_databit' is not defined  no-undef
+   86:4   warning  'Swal' is not defined         no-undef
+   88:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   89:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   90:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   92:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   93:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  103:4   warning  'Swal' is not defined         no-undef
+  105:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  106:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  107:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  109:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  110:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  120:4   warning  'Swal' is not defined         no-undef
+  122:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  123:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  124:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  126:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  127:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  141:16  warning  'arr_databit' is not defined  no-undef
+  145:7   warning  'arr_databit' is not defined  no-undef
+  158:12  warning  'i' is already defined        no-redeclare
+  158:19  warning  'arr_databit' is not defined  no-undef
+  162:9   warning  'arr_databit' is not defined  no-undef
+  175:9   warning  'arr_databit' is not defined  no-undef
+  195:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  196:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  197:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  198:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  199:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  200:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  216:4   warning  'Plotly' is not defined       no-undef
+  221:2   warning  Unnecessary semicolon         no-extra-semi
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/nrz-l.js
+    1:1   warning  '$' is not defined            no-undef
+    3:2   warning  '$' is not defined            no-undef
+   10:18  warning  '$' is not defined            no-undef
+   11:17  warning  '$' is not defined            no-undef
+   17:3   warning  'Swal' is not defined         no-undef
+   32:3   warning  'Swal' is not defined         no-undef
+   47:3   warning  'Swal' is not defined         no-undef
+   64:4   warning  'arr_databit' is not defined  no-undef
+   67:14  warning  'arr_databit' is not defined  no-undef
+   69:8   warning  'arr_databit' is not defined  no-undef
+   69:32  warning  'arr_databit' is not defined  no-undef
+   74:15  warning  'arr_databit' is not defined  no-undef
+   82:5   warning  'Swal' is not defined         no-undef
+   84:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   85:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   86:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   88:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   89:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   99:5   warning  'Swal' is not defined         no-undef
+  101:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  102:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  103:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  105:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  106:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  116:5   warning  'Swal' is not defined         no-undef
+  118:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  119:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  120:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  122:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  123:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  133:17  warning  'arr_databit' is not defined  no-undef
+  142:8   warning  'arr_databit' is not defined  no-undef
+  157:13  warning  'i' is already defined        no-redeclare
+  157:19  warning  'arr_databit' is not defined  no-undef
+  159:9   warning  'arr_databit' is not defined  no-undef
+  178:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  179:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  180:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  181:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  182:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  183:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  199:5   warning  'Plotly' is not defined       no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/pseudoternary.js
+    1:1   warning  '$' is not defined            no-undef
+    4:2   warning  '$' is not defined            no-undef
+   10:17  warning  '$' is not defined            no-undef
+   11:16  warning  '$' is not defined            no-undef
+   15:3   warning  'Swal' is not defined         no-undef
+   30:3   warning  'Swal' is not defined         no-undef
+   45:3   warning  'Swal' is not defined         no-undef
+   62:3   warning  'arr_databit' is not defined  no-undef
+   63:15  warning  'arr_databit' is not defined  no-undef
+   66:13  warning  'arr_databit' is not defined  no-undef
+   68:7   warning  'arr_databit' is not defined  no-undef
+   68:31  warning  'arr_databit' is not defined  no-undef
+   74:14  warning  'arr_databit' is not defined  no-undef
+   80:4   warning  'Swal' is not defined         no-undef
+   82:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   83:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   84:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   86:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   87:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   97:4   warning  'Swal' is not defined         no-undef
+   99:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  100:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  101:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  103:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  104:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  114:4   warning  'Swal' is not defined         no-undef
+  116:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  117:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  118:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  120:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  121:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  141:7   warning  'arr_databit' is not defined  no-undef
+  152:12  warning  'i' is already defined        no-redeclare
+  152:18  warning  'arr_databit' is not defined  no-undef
+  154:8   warning  'arr_databit' is not defined  no-undef
+  162:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  162:10  warning  'arr_databit' is not defined  no-undef
+  163:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  164:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  165:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  166:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  167:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  168:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  170:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  171:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  172:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  173:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  174:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  175:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  177:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  178:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  179:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  180:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  181:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  182:6   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  183:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  184:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  185:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  186:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  187:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  188:5   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  190:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  201:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  202:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  203:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  204:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  205:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  206:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  222:4   warning  'Plotly' is not defined       no-undef
+
+/home/runner/work/exp-line-encoding-iitr/exp-line-encoding-iitr/experiment/simulation/js/rz-uni.js
+    1:1   warning  '$' is not defined            no-undef
+    4:2   warning  '$' is not defined            no-undef
+   11:17  warning  '$' is not defined            no-undef
+   12:16  warning  '$' is not defined            no-undef
+   18:3   warning  'Swal' is not defined         no-undef
+   33:3   warning  'Swal' is not defined         no-undef
+   48:3   warning  'Swal' is not defined         no-undef
+   65:3   warning  'arr_databit' is not defined  no-undef
+   71:13  warning  'arr_databit' is not defined  no-undef
+   73:7   warning  'arr_databit' is not defined  no-undef
+   73:31  warning  'arr_databit' is not defined  no-undef
+   78:14  warning  'arr_databit' is not defined  no-undef
+   84:4   warning  'Swal' is not defined         no-undef
+   86:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   87:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   88:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   90:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+   91:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  101:4   warning  'Swal' is not defined         no-undef
+  103:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  104:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  105:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  107:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  108:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  118:4   warning  'Swal' is not defined         no-undef
+  120:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  121:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  122:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  124:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  125:4   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  142:7   warning  'arr_databit' is not defined  no-undef
+  156:12  warning  'i' is already defined        no-redeclare
+  156:18  warning  'arr_databit' is not defined  no-undef
+  158:8   warning  'arr_databit' is not defined  no-undef
+  188:12  warning  'i' is already defined        no-redeclare
+  201:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  202:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  203:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  204:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  205:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  206:3   warning  Mixed spaces and tabs         no-mixed-spaces-and-tabs
+  222:4   warning  'Plotly' is not defined       no-undef
+
+✖ 703 problems (0 errors, 703 warnings)
+  0 errors and 2 warnings potentially fixable with the `--fix` option.
+

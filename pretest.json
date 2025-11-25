@@ -1,0 +1,111 @@
+[
+  {
+        "question": "Unipolar RZ is a type of ______ encoding.",
+        "answers": {
+          "a": "Line",
+          "b": "Block",
+          "c": "Scrambling",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a"
+      },
+      {
+      
+        "question": "DC component is present in the encoded signal and there is loss of synchronization for long sequences of 0’s and 1’s in unipolar RZ.",
+        "answers": {
+          "a": "True",
+          "b": "False"
+        },
+        "correctAnswer": "a"
+      },
+      {
+      
+        "question": "NRZ-L is a type of _____ line encoding.",
+        "answers": {
+          "a": "Bipolar",
+          "b": "Multitransition",
+          "c": "Polar",
+          "d": "None of the above"
+        },
+        "correctAnswer": "c"
+      },
+      {
+      
+        "question": "Which of the following is not a Polar line encoding scheme?",
+        "answers": {
+          "a": "NRZ-I",
+          "b": "NRZ-L",
+          "c": "AMI",
+          "d": "All of the above"
+        },
+        "correctAnswer": "c"
+      },
+      {
+        
+        "question": "Manchester encoding is a combination of which two line encoding schemes.",
+        "answers": {
+          "a": "NRZ-L and RZ",
+          "b": "NRZ-I and RZ",
+          "c": "NRZ-L and AMI",
+          "d": "None of the above"
+        },
+        "correctAnswer": "b"
+      },
+      {
+      
+        "question": "The ________ represents the number of bits sent per second, whereas the ______ defines the number of signal elements per second in the signal.",
+        "answers": {
+          "a": "bit rate, baud rate",
+          "b": "baud rate , bit rate",
+          "c": "Both are same",
+          "d": "None of the above"
+        },
+        "correctAnswer": "a"
+      },
+      {
+        
+        "question": "In which line encoding scheme 0 bit is represented by Zero level and binary 1 is represented by alternating positive and negative voltages.",
+        "answers": {
+          "a": "NRZ-I",
+          "b": "AMI",
+          "c": "Pseudoternary",
+          "d": "All of the above"
+        },
+        "correctAnswer": "b"
+      },
+      {
+        
+        "question": "In Pseudoternary line encoding\nStatement 1: 0 bit is represented by Zero level.\nStatement 2: Binary 1 is represented by alternating positive and negative voltages.\nWhich of the above are true.",
+        "answers": {
+          "a": "Statement 1 is true and Statement 2 is false",
+          "b": "Statement 1 is false and Statement 2 is true",
+          "c": "Both are true",
+          "d": "Both are false"
+        },
+        "correctAnswer": "d"
+      },
+      {
+      
+        "question": "The polarities in NRZ format use?",
+        "answers": {
+          "a": "Complete pulse duration",
+          "b": "Half duration",
+          "c": "Both positive as well as negative value",
+          "d": "Each pulse is used for twice the duration"
+      },
+        "correctAnswer": "a"
+      },
+      {
+        
+        "question": "How many levels does manchester line encoding involve?",
+        "options": {
+          "a": "Two levels with inversion in the middle of each bit",
+          "b": "Three levels with inversion in the middle of each bit",
+          "c": "Two levels without inversion in the middle of each bit",
+          "d": "Three levels without inversion in the middle of each bit"
+      },
+        "correctAnswer": "a"
+      }
+]
+  
+
