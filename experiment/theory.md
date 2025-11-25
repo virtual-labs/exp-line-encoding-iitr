@@ -215,6 +215,6 @@ Example: Data = 010010
 </ol>
 
 <center>  
-<img style="mix-blend-mode: darken;" src="images\bipolar.jpg" alt="Bipolar Encoding">
+<img style="mix-blend-mode: darken;" src="images/bipolar.png" alt="Bipolar Encoding">
 <figcaption><strong>Fig. 7 Bipolar Encodings</strong></figcaption><br>
 </center>
